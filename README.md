@@ -33,3 +33,8 @@
 </div>
 
 #### cxryduds
+<h2 align="left">🎮 My Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
+</p>
